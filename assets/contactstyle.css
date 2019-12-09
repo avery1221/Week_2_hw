@@ -42,3 +42,15 @@ h1 {
     background-color: teal;
     color: white;
 }
+
+.card5 {
+    position: fixed;
+    bottom: 0px;
+    width: 70%
+    ;
+}
+
+.card-title5 {
+    color: teal;
+    font-size: 28px;
+}
