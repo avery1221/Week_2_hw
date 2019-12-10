@@ -5,6 +5,7 @@
     font-size: 16px;
     font-weight: normal;
     color: black;
+    background-color: white;
 }
 
 h1 {
@@ -53,4 +54,8 @@ h1 {
 .card-title5 {
     color: teal;
     font-size: 28px;
+}
+
+h6 {
+    font-weight: lighter;
 }
