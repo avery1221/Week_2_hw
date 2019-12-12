@@ -59,3 +59,7 @@ h1 {
 h6 {
     font-weight: lighter;
 }
+
+body {
+    overflow: scroll;
+}
